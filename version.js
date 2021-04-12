@@ -1,1 +1,1 @@
-module.exports = function {global.process.version}
+module.exports = function test() {global.process.version}
