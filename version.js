@@ -1,1 +1,1 @@
-module.exports = global.process.version
+module.exports = functionglobal.process.version
