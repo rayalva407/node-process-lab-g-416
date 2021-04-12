@@ -1,1 +1,1 @@
-module.exports = global.process.version
+cosn
